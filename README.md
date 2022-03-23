@@ -1,4 +1,4 @@
-### Olá a todes! Sou a Mônica👋
+### Olá a todes! Sou Mônica👋
 Ciao a tutti! Io sono Mônica!
 
 <div align = center>
