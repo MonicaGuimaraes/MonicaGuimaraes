@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá a todes! Sou a Mônica👋
+Ciao a tutti! Io sono Mônica!
 
-<!--
-**MonicaGuimaraes/MonicaGuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = center>
+    <img align="right" alt="Moni-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/821234639443853312/956008888640090152/Screenshot_9.png">
+</div>
 
-Here are some ideas to get you started:
+- 🔭 Trabalho com manutenção elétrica residencial.
+- 📝 Cursando o bootcamp da Laboratória.
+- 🌱 Estou aprendendo JavaScript, Css, HTML.
+- 🤔 Tenho grande interesse em Python.
+- 🎓 Formada em Gestão da Tecnologia da Informação.
+- 📫 Contato e-mail: monicapeixoto0@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MonicaGuimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaGuimaraes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+##
+![Snake animation](https://github.com/MonicaGuimaraes/MonicaGuimaraes/blob/output/github-contribution-grid-snake.svg)
