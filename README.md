@@ -15,8 +15,8 @@ Ciao a tutti! Io sono Mônica!
 ##
 <div align="center">
   <a href="https://github.com/MonicaGuimaraes">
-  <img width="390em" src="https://github-readme-stats.vercel.app/api?username=MonicaGuimaraes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaGuimaraes&layout=compact&langs_count=7&theme=synthwave"/>
+  <img width="380em" src="https://github-readme-stats.vercel.app/api?username=MonicaGuimaraes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img width="590em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaGuimaraes&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
    
     
