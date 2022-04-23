@@ -4,6 +4,7 @@ Ciao a tutti! Io sono Mônica!
 <div align = center>
     <a href="https://github.com/MonicaGuimaraes">
     <img align="right" alt="Moni-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/821234639443853312/956008888640090152/Screenshot_9.png">
+    </a>
 </div>
 
 - 🔭 Trabalho com manutenção elétrica residencial.
