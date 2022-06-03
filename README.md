@@ -13,6 +13,7 @@ Ciao a tutti! Io sono Mônica!
 - 🤔 Tenho grande interesse em Python.
 - 🎓 Formada em Gestão da Tecnologia da Informação.
 - 📫 Contato e-mail: monicapeixoto0@gmail.com 
+- [LinkedIn](https://www.linkedin.com/in/monica-peixoto-guimaraes-v/)
 
 ##
 <div align="center">
