@@ -7,12 +7,13 @@ Ciao a tutti! Io sono Mônica!
     </a>
 </div>
 
-- 🔭 Trabalho com manutenção elétrica residencial.
-- 📝 Cursando o bootcamp da Laboratória.
-- 🌱 Estou aprendendo JavaScript, Css, HTML.
-- 🤔 Tenho grande interesse em Python.
-- 🎓 Formada em Gestão da Tecnologia da Informação.
-- 📫 Contato [LinkedIn](https://www.linkedin.com/in/monica-peixoto-guimaraes-v/)
+- ### 👩‍💻 Desenvolvedora Web JR. | Dev Front-End JR.
+- ### 🔭 Trabalho com manutenção elétrica residencial (Freelancer).
+- ### 📝 Cursei o bootcamp da Laboratória.
+- ### 🌱 JavaScript, Css3, HTML5, ReactJS, NodeJS, Tests.
+- ### 🤔 Tenho grande interesse em Python.
+- ### 🎓 Formada em Gestão da Tecnologia da Informação.
+- ### 📫 Contato [LinkedIn](https://www.linkedin.com/in/monica-peixoto-guimaraes-v/)
 
 ##
 <div align="center">
