@@ -17,7 +17,7 @@ Ciao a tutti! Io sono Mônica!
 ### 🔭 Trabalho como engenheira de software na [Pipo Saúde](https://www.piposaude.com.br/).
 ### 📝 Cursei um bootcamp de web desenvolvimento na Laboratória.
 ### 🌱 ClojureScript, Clojure, Reagent, Reframe, Apache, Kafka, AVRO, AWS,
-###    Event Sourcing Architecture, Kubernetes, Docker, 
+###    Event Sourcing Architecture, Kubernetes, Docker, Firebase, 
 ###    Material Design, JavaScript, Css3, HTML5, ReactJS, NodeJS, Tests.
 ### 🤔 Tenho grande interesse em Python.
 ### 🎓 Formada em Gestão da Tecnologia da Informação.
@@ -29,6 +29,12 @@ Ciao a tutti! Io sono Mônica!
 
 ##
 <div align="center">
+    <img align="center" alt="Clojure" height="30" width="30" src="https://cdn.discordapp.com/attachments/975577416099577866/1113268715711103077/Clojure_logo.svg.png">
+    <img align="center" alt="ClojureScript" height="30" width="30" src="https://cdn.discordapp.com/attachments/975577416099577866/1113268715979546684/clojurescript_original_logo_icon_146594.png">
+    <img align="center" alt="Kafka" height="30" src="https://cdn.discordapp.com/attachments/975577416099577866/1113268716247978034/download.png">
+    <img align="center" alt="Kubernetes" height="30" width="30" src="https://cdn.discordapp.com/attachments/975577416099577866/1113268716512223302/k8s-logo.png">
+    <img align="center" alt="Reagent" height="30" width="30" src="https://cdn.discordapp.com/attachments/975577416099577866/1113268716835180716/N61oVvg-_400x400.png">
+    <img align="center" alt="Reframe" height="30" src="https://cdn.discordapp.com/attachments/975577416099577866/1113268717074251916/re-frame-colour_1.png">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
