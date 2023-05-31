@@ -2,7 +2,7 @@
 Ciao a tutti! Io sono Mônica!
 <div align = center>
     <a href="https://github.com/MonicaGuimaraes">
-    <img alt="Moni-pic" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/972803404961304616/989373255032897576/gifmonica.gif">
+    <img alt="Moni-pic" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/975577416099577866/1113264567817089124/Monica_Peixoto_Guimaraes.gif">
     </a>
 </div>
 
@@ -13,13 +13,19 @@ Ciao a tutti! Io sono Mônica!
     </a>
 </div>
 
-### 👩‍💻 Desenvolvedora Web JR. | Dev Front-End JR.
-### 🔭 Trabalho com manutenção elétrica residencial (Freelancer).
-### 📝 Cursei o bootcamp da Laboratória.
-### 🌱 JavaScript, Css3, HTML5, ReactJS, NodeJS, Tests.
+### 👩‍💻 Engenheira de Software Jr. | Desenvolvedora Web | Dev Front-End.
+### 🔭 Trabalho como engenheira de software na [Pipo Saúde](https://www.piposaude.com.br/).
+### 📝 Cursei um bootcamp de web desenvolvimento na Laboratória.
+### 🌱 ClojureScript, Clojure, Reagent, Reframe, Apache, Kafka, AVRO, AWS,
+###    Event Sourcing Architecture, Kubernetes, Docker, 
+###    Material Design, JavaScript, Css3, HTML5, ReactJS, NodeJS, Tests.
 ### 🤔 Tenho grande interesse em Python.
 ### 🎓 Formada em Gestão da Tecnologia da Informação.
 ### 📫 Contato [LinkedIn](https://www.linkedin.com/in/monica-peixoto-guimaraes-v/)
+<div align="center"> 
+    <img align="center" alt="Js" height="100" width="150" src="https://cdn.discordapp.com/attachments/975577416099577866/1113266169198162020/Gif_Gato_de_oculos.gif">
+<div>
+    Estou um pouco afastada do Github por causa do trabalho. Status: Aprendendo novas tecnologias...
 
 ##
 <div align="center">
