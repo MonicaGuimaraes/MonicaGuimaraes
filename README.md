@@ -7,19 +7,12 @@ Ciao a tutti! Io sono Mônica!
 </div>
 
 
-<div align = center>
-    <a href="https://github.com/MonicaGuimaraes">
-    <img align="right" alt="Moni-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/821234639443853312/956008888640090152/Screenshot_9.png?ex=6631a1a8&is=661f2ca8&hm=c867d1fdb87cc507af0175e67952bec486c35ca7de7455fb243a1b255d6ca360&">
-    </a>
-</div>
-
-### 👩‍💻 Engenheira de Software Jr. | Desenvolvedora Web | Dev Front-End.
+### 👩‍💻 Engenheira de Software| Desenvolvedora Web | Dev Front-End.
 ### 🔭 Trabalho como engenheira de software na [Pipo Saúde](https://www.piposaude.com.br/).
 ### 📝 Cursei um bootcamp de web desenvolvimento na Laboratória.
 ### 🌱 ClojureScript, Clojure, Reagent, Reframe, Apache, Kafka, AVRO, AWS,
 ###    Event Sourcing Architecture, Kubernetes, Docker, Firebase, 
 ###    Material Design, JavaScript, Css3, HTML5, ReactJS, NodeJS, Tests.
-### 🤔 Tenho grande interesse em Python.
 ### 🎓 Formada em Gestão da Tecnologia da Informação.
 ### 📫 Contato [LinkedIn](https://www.linkedin.com/in/monica-peixoto-guimaraes-v/)
 <div align="center"> 
